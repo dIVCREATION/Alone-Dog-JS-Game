@@ -1,0 +1,39 @@
+.grid{
+    width  :  360px;    
+    height: 360px;
+    border: solid green  2px;
+    flex-wrap: wrap;
+    display:flex;
+    margin-top:35px;
+    margin-left: 80px;
+}
+
+.grid div{
+    width:40px;
+    height:40px;
+}
+
+.Ending-block {
+    background-color: red;
+}
+ .l1, .l2, .l3{
+    background-color: rgb(73, 77, 77);
+}
+.l4, .l5{
+    background-color: aqua;
+}
+ 
+.Starting-Block {
+    background-color: greenyellow;
+}
+
+.c1{
+    background-color:chartreuse;
+}
+.c2, .c3{
+    background-color: darkslategray;
+}
+
+.Dog{
+    background-color: rgb(91, 76, 9);
+}
